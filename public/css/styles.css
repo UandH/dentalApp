@@ -1,0 +1,45 @@
+body {
+	background-color: #FFDBCF;
+}
+.white_color {
+	color: white;
+}
+.new-patient {
+	margin-right: 10%;
+}
+.active {
+	background-color: #337ab7;
+	color: white;
+}
+.pic {
+	width: 100%;
+}
+.pers-data h3 {
+	margin-left: 10%;
+	font-weight: bold;
+}
+.pers-data h5 {
+	margin-bottom: 0px;
+}
+.well-sm {
+	box-shadow: 5px 10px 18px #337ab7;
+}
+.name {
+	background-color: green;
+}
+.operation_head {
+	text-align: center;
+}
+.operation_desc {
+	min-height: 100px;
+}
+.patient_name {
+	font-weight: bold;
+}
+/*    pacijenti   */
+.margin_bottom {
+	margin-bottom: 0px;
+}
+.search_box {
+	margin-top: 27px;
+}
